@@ -15,7 +15,7 @@ The **logostream Airline API** provides high-quality logos for over 900+ airline
 ## 🔑 Requesting an API Key
 
 A personal API key is required to use the service.
-1. Send an email to [sales@logostream.de](mailto:sales@logostream.de).
+1. Send an email to [sales@logostream.dev](mailto:sales@logostream.dev) or go got https://logostream.dev
 2. Include your **intended use case** (e.g., Booking App, FIDS) and the **domain(s)** that will use the API.
 
 ---

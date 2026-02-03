@@ -12,6 +12,10 @@ The **logostream Airline API** provides high-quality logos for over 900+ airline
 
 ---
 
+<p align="center">
+  <img src="https://qkyxmtrnsndaujcyxzfg.supabase.co/storage/v1/object/public/landingpage-images/logostream_airline_banner.png" alt="Logostream Airline Logos API with IATA and ICAO" width="100%">
+</p>
+
 ## 🔑 Requesting an API Key
 
 A personal API key is required to use the service.
